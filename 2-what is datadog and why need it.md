@@ -10,7 +10,7 @@
 windows | azure | SQL | mongoDB | Amazon
 
 ## what does it monitor?
-infrastructure | log management | database | serverless | incident management | network monitoring | workload security  | sensitive data scanner
+![image](https://github.com/user-attachments/assets/7890e3a9-418f-4ecc-aaf4-73d6abd96262)
 
 
 ### how does it collect data :
@@ -22,16 +22,12 @@ its collects metric and events from your system and app
 
 2-using datadog api
 3-integrations
+###how does it work?
+![image](https://github.com/user-attachments/assets/26857581-9761-4018-b7ef-e6ce3e82f4cc)
 
 
 ### What do I use datadog
--to configure monitors and alerts which will send me a warning/alert notification if some anomaly or failures happens
--to write easy and fast query on traces/logs/metrics
--to monitor servers/host downtime
--application/services downtime
--service request/response error rates
--service request/response latency
--sql queries duration
+![image](https://github.com/user-attachments/assets/22e52c92-a83f-4818-94a9-dc6e44258629)
 
 ###what are datadog tag:
 way of adding dimensions to datadog telemetries so they can be to filtered,compared in datadog visualizations.
