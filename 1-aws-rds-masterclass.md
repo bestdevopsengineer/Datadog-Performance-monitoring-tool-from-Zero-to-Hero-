@@ -34,9 +34,8 @@ with these data to:
 4-errors (request failures rates)
 
 ### top APM tools:
-Datadog
-new relic
-dynatrace
+
+Datadog | new relic  |dynatrace
 
 
 
