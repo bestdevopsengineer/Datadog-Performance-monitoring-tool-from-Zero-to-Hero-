@@ -12,26 +12,16 @@ collects metrics data from your applications and  this data helps to monitor app
 1-Front End
 2-Back end
 3-Infrastructure
+![image](https://github.com/user-attachments/assets/cec7aff2-4e6e-4f7c-8238-818f663af110)
 
 ### How is APM monitoring performed?
 from our project/service/website APM collect  [metrics/events/logs/traces] or MELT  
-with these data to:
-1- gain insights from the user perspective
-2-quickly spot performance trends at a glance
-3-root cause analysis
-4-generate alerts on anomalies
-5-tracks individual SQL statements
-6-monitor key performance indicators such as: response time/ error rate / resource usage / latency
+
+![image](https://github.com/user-attachments/assets/c0102417-8024-4f87-b97c-4afd44de1dcd)
 
 ### Four Golden Signals of Monitoring
 
-1-latency (time required to fulfil a request)
-
-2-traffic (number of hits per sec)
-
-3-saturation (% of resources consumed)
-
-4-errors (request failures rates)
+![image](https://github.com/user-attachments/assets/86280c6b-ad65-4efa-8cad-ba06feb06ffd)
 
 ### top APM tools:
 
