@@ -26,8 +26,11 @@ with these data to:
 ### Four Golden Signals of Monitoring
 
 1-latency (time required to fulfil a request)
+
 2-traffic (number of hits per sec)
+
 3-saturation (% of resources consumed)
+
 4-errors (request failures rates)
 
 ### top APM tools:
